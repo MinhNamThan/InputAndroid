@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Input Application</string>
+    <string name="input_mssv">Input MSSV</string>
+    <string name="mssv">MSSV</string>
+    <string name="h_t_n">Họ tên</string>
+    <string name="fullname">FullName</string>
+    <string name="cccd">CCCD</string>
+    <string name="input_cccd">Input CCCD</string>
+    <string name="dt">Điện thoại</string>
+    <string name="language">Ngôn ngữ lập trình</string>
+    <string name="email">Nhập email</string>
+    <string name="sdt">Nhập SĐT</string>
+    <string name="bir">Nhập ngày sinh</string>
+    <string name="town">Nhập quên quán</string>
+    <string name="ok">OK</string>
+    <string name="agree">Tôi đồng ý với điều khoản</string>
+    <string name="address">Nhập địa chỉ</string>
+    <string name="python">Python</string>
+    <string name="java">Java</string>
+    <string name="c">C</string>
+    <string name="ktmt">Kỹ thuật máy tính</string>
+    <string name="khmt">Khoa học máy tính</string>
+    <string name="major">Ngành học hiện tại</string>
+    <string name="now_address">Nơi ở \nhiện tại</string>
+    <string name="Town_text">Quê quán</string>
+    <string name="Bir_text">Ngày sinh</string>
+    <string name="btn">Button</string>
+    <string name="email_text">Email</string>
+</resources>
